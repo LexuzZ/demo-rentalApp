@@ -10,9 +10,6 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
-        "ext-intl": "*",
-        "ext-zip": "*",
-        "ext-gd": "*",
         "barryvdh/laravel-dompdf": "^3.1",
         "filament/filament": "^3.3",
         "joaopaulolndev/filament-pdf-viewer": "^1.0",
